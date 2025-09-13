@@ -1,6 +1,6 @@
 🧠 COVID-19 Data Exploration Project (SQL)
 
-✅ Problem Statement
+✅ Problem Statement:
 Analyze global COVID-19 data to uncover trends in infection rates, mortality, and vaccination coverage using advanced SQL techniques.
 
 🛠️ Skills & Tools Used
