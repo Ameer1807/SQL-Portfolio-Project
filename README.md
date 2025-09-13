@@ -1,9 +1,11 @@
 🧠 COVID-19 Data Exploration Project (SQL)
+
 ✅ Problem Statement
 Analyze global COVID-19 data to uncover trends in infection rates, mortality, and vaccination coverage using advanced SQL techniques.
 
 🛠️ Skills & Tools Used
 - SQL Server, Joins, CTEs, Temp Tables, Window Functions
+- Microsoft SQL Server Management Studio 21
 - Aggregate Functions, Data Type Conversion, View Creation
 
 🔍 Project Workflow
